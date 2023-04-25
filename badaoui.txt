@@ -11,6 +11,7 @@ by Mike Wasson
 In the previous tutorial, you created a basic OData service that supports CRUD operations. Now let's create a client for the service.
 Start a new instance of Visual Studio and create a new console application project. In the New Project dialog,
 select Installed > Templates > Visual C# > Windows Desktop, and select the Console Application template. Name the project "ProductsApp
+CONSUME & CALL RESTFUL API USING X++, PASS REQUEST HEADER & POST JSON MESSAGE IN BODY – Client shared some REST APIs and REST web-services. The web-service or REST API needs to be consumed in Microsoft Dynamics 365 finance & operations using X++. The HttpWebRequest contains request headers i.e WebHeaderCollection which needs to be filled in API header. The content type is application/json. The request body input should be a valid JSON format and POST method of REST API will be called .HttpWebResponse will be received & deserialized in Microsoft Dynamics 365 fin & op
 
 
 
