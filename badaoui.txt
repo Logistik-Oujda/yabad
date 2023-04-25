@@ -7,5 +7,10 @@ git test
 Master Branch test 
 more content
 more Text and Test
+by Mike Wasson
+In the previous tutorial, you created a basic OData service that supports CRUD operations. Now let's create a client for the service.
+Start a new instance of Visual Studio and create a new console application project. In the New Project dialog,
+select Installed > Templates > Visual C# > Windows Desktop, and select the Console Application template. Name the project "ProductsApp
+
 
 
